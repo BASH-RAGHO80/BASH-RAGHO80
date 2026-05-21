@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-DevOps & Cloud Engineering Enthusiast | AWS • Automation • Infrastructure • Docker • CI/CD • Kubernetes • Datadog  
+DevOps & Cloud Engineering Enthusiast | AWS • Automation • Infrastructure • Docker • CI/CD • Kubernetes • Datadog   • Nginx • Apache • Grafana • Prometheus • Ansible  
 </h3>
 
 ---
@@ -18,7 +18,7 @@ DevOps & Cloud Engineering Enthusiast | AWS • Automation • Infrastructure �
 
 ### 🛠️ Tech Stack
 - AWS | Linux | Docker | Git | Jenkins
-- CI/CD | Bash | Python | MySQL
+- CI/CD | Bash | Python | MySQL | Ansible | Grafana | Prometheus 
 
 ---
 
