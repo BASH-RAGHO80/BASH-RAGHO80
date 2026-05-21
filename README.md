@@ -17,7 +17,7 @@ DevOps & Cloud Engineering Enthusiast | AWS • Automation • Infrastructure �
 ---
 
 ### 🛠️ Tech Stack
-- AWS | Linux | Docker | Git | Jenkins | Grafana 
+- AWS | Linux | Docker | Git | Jenkins | Grafana | Kubernetes
 - CI/CD | Bash | Python | MySQL | Ansible  | Prometheus
 
 ---
